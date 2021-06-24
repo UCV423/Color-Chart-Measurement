@@ -34,4 +34,5 @@
 # Underwater Image Enhancement Method
 
 ## UDCP
-[UDCP](https://github.com/bilityniu/underwater_dark_chennel)
+[Paper](https://ieeexplore.ieee.org/abstract/document/7426236)
+[Code](https://github.com/bilityniu/underwater_dark_chennel)
