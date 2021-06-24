@@ -50,7 +50,7 @@
 
 [4] Cameron Fabbri, Md Jahidul Islam, and Junaed Sattar, “Enhancing underwater imagery using generative adversarial networks,” in 2018 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2018, pp. 7159–7165.
 ## Sea-thru
-[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.html) & [Code](https://github.com/hainh/sea-thru) (Previously it was officially maintained, and part of the content has been deleted. The modified effect is not very good)
+[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.html) & [Code](https://github.com/hainh/sea-thru)
 
 [5] Derya Akkaynak and Tali Treibitz, “Sea-thru: A method for removing water from underwater images,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019, pp. 1682–1691.
 ## FUnIEGAN
