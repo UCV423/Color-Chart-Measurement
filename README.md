@@ -29,3 +29,9 @@
 #### Run
 
 	python main.py
+
+
+# Underwater Image Enhancement Method
+
+## UDCP
+[UDCP](https://github.com/bilityniu/underwater_dark_chennel)
