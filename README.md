@@ -61,3 +61,9 @@
 # Proposed UICRN demo
 
 Download path: [UICRN_demo](https://github.com/UCV423/Color-Chart-Measurement/releases/tag/UICRN_demo)
+
+## Getting Started
+- UNZIP UICRN_demo.zip and execute "./demo/demo.exe"
+- Select model from "./pt/UICRN_best.pt"
+- Open image from file path
+- Run model
