@@ -57,3 +57,7 @@
 [Paper](https://ieeexplore.ieee.org/abstract/document/9001231) & [Code](https://github.com/xahidbuffon/FUnIE-GAN)
 
 [6] Md Jahidul Islam, Youya Xia, and Junaed Sattar, “Fast underwater image enhancement for improved visual perception,” IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 3227–3234, 2020.
+
+# Proposed UICRN demo
+
+Download path: [UICRN_demo](https://github.com/UCV423/Color-Chart-Measurement/releases/tag/UICRN_demo)
